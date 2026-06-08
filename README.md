@@ -68,7 +68,7 @@ A solução inclui:
 ## 🔗 Acesse o Projeto
 
 **Site:**  
-https://cristinameirelles.github.io/a-vida-como-ela-e/
+https://avidacomoelae.vercel.app/
 
 ---
 
